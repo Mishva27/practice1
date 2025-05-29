@@ -1,0 +1,4 @@
+untracked - Git status
+tracking - git add <filename>
+stage - git commit -m "message"
+online - 
